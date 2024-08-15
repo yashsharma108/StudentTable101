@@ -5,7 +5,7 @@ using StudentTable.Model;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+///new
 namespace StudentTable.Repositories
 {
     public class CourseRepository : ICourseRepository
