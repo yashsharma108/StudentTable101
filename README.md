@@ -14,8 +14,7 @@ API Documentation: Swagger UI
 🎯 Features
 ✅ Student Management – CRUD operations for student records
 ✅ Course Management – Manage available courses and enrollments
-✅ Placement Records – Track student placements and company details
-✅ Faculty Management – Manage faculty records and assignments
+✅ Faculty Management – Manage faculty records
 ✅ Query System – Students can submit queries, and admins can respond
 ✅ Role-Based Access Control – Secure access for admin, students, and faculty
 ✅ Swagger UI – Interactive API documentation
